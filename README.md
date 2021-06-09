@@ -1,4 +1,4 @@
-#  VideoCall using opencv and tcpSocketProgramming
+#  VideoCall using Opencv and TCP Socket Programming
 
 ## Blog link: 
 ##### https://pratik26.medium.com/videocall-app-using-opencv-and-socket-programming-39d819da68dc" 
