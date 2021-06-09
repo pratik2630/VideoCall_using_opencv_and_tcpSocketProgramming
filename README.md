@@ -1,3 +1,6 @@
-"# VideoCall_using_opencv_and_tcpSocketProgramming" 
-"#Blog link: https://pratik26.medium.com/videocall-app-using-opencv-and-socket-programming-39d819da68dc"
-"#Demo Video: https://www.linkedin.com/posts/pratikkorgaonkar_vimaldaga-righteducation-educationredefine-activity-6808518589822455808-Wbu5"
+#  VideoCall using opencv and tcpSocketProgramming
+
+## Blog link: 
+##### https://pratik26.medium.com/videocall-app-using-opencv-and-socket-programming-39d819da68dc" 
+# Demo Video:
+##### https://www.linkedin.com/posts/pratikkorgaonkar_vimaldaga-righteducation-educationredefine-activity-6808518589822455808-Wbu5"
